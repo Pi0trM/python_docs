@@ -1,13 +1,7 @@
-Welcome to Lumache's documentation!
-===================================
+Dokumentacja skryptów z projektu Bazy Danych
+============================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Poniżej zawarto dokumentację modułów zawierających funkcje do obsługi baz danych w PostgreSQL i SQLite oraz generującą przykładowy zestaw danych dla tych baz w plikach CSV i JSON.
 
 .. note::
 
@@ -18,5 +12,6 @@ Contents
 
 .. toctree::
 
-   usage
+   postgresql
+   sqlite
    api
