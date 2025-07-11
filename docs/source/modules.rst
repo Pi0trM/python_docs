@@ -1,9 +1,17 @@
-python_docs
-===========
+Moduły projektu
+===============
 
-.. toctree::
-   :maxdepth: 4
+.. automodule:: postgresql_functions
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
-   generowanie_danych
-   postgresql_functions
-   sqlite_functions
+.. automodule:: sqlite_functions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+.. automodule:: generowanie_danych
+   :members:
+   :undoc-members:
+   :show-inheritance:
