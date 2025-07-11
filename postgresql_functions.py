@@ -31,12 +31,10 @@ def connect_to_db(config_file = "database_creds.json"):
     """
     Łączy się z bazą danych PostgreSQL za pośrednictwem danych zawartych w pliku database_creds.json.
     """
-    #%load_ext sql
 
     connection_string = get_connection_string(config_file)
     
     print("Połączono z bazą.")
-    #%sql $connection_string
 
 def table_to_csv(table, csv_file, config_file = "database_creds.json"):
     """
