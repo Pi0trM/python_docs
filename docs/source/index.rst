@@ -12,6 +12,5 @@ Contents
 
 .. toctree::
 
-   postgresql
-   sqlite
+   modules
    api
