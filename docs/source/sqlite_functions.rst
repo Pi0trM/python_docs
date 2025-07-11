@@ -1,5 +1,5 @@
-sqlite\_functions module
-========================
+sqlite_functions
+================
 
 .. automodule:: sqlite_functions
    :members:

@@ -1,5 +1,5 @@
-postgresql\_functions module
-============================
+postgresql_functions
+====================
 
 .. automodule:: postgresql_functions
    :members:

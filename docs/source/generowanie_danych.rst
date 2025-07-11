@@ -1,5 +1,5 @@
-generowanie\_danych module
-==========================
+generowanie_danych
+==================
 
 .. automodule:: generowanie_danych
    :members:

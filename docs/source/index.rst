@@ -11,5 +11,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   modules
+   postgresql_functions
+   sqlite_functions
+   generowanie_danych
